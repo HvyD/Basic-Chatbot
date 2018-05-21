@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-EchoBot
+CHATBOT
 Created on Mon May 21 10:57:45 2018
 
 @author: hvyd
